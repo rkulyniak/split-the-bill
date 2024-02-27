@@ -1,0 +1,1 @@
+Split-the-Bill helps you to divvy up big expenses
